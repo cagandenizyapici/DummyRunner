@@ -1,0 +1,16 @@
+# .NET / MonoGame build ciktilari (bunlar yuklenmemeli, build sirasinda yeniden uretilir)
+bin/
+obj/
+
+# MonoGame Content pipeline ciktilari
+Content/bin/
+Content/obj/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+
+# Isletim sistemi
+Thumbs.db
+.DS_Store
